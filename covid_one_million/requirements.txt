@@ -2,7 +2,7 @@ agate==1.6.1
 agate-dbf==0.2.2
 agate-excel==0.2.3
 agate-sql==0.5.5
-aiohttp==3.6.2
+aiohttp==3.7.4
 alembic==1.4.2
 antiorm==1.2.1
 app==0.0.1
