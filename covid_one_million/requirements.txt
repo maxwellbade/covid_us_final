@@ -184,7 +184,7 @@ tornado==6.0.4
 traitlets==4.3.3
 txt2tags==3.7
 Unidecode==1.1.1
-urllib3==1.25.9
+urllib3==1.26.5
 user-profile==1.0.0
 virtualenv==20.0.27
 virtualenv-clone==0.5.4
